@@ -1,6 +1,4 @@
 # The Proxy Bay
 
-View site on Github: https://proxybay.github.io/
-
-View original site: https://proxybay.kim/
+View site on Github: https://pirate-proxy.github.io/
 
